@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Note 1",
+    "completed": false,
+    "items": [
+      {
+        "id": 1,
+        "value": "First item",
+        "order": 1,
+        "noteId": 1,
+        "completed": false,
+        "deleted": false
+      },
+      {
+        "id": 2,
+        "value": "Second item",
+        "order": 2,
+        "noteId": 1,
+        "completed": false,
+        "deleted": false
+      }
+    ],
+    "draftItem": ""
+  },
+  {
+    "id": 2,
+    "title": "Note 2",
+    "completed": true,
+    "items": [
+      {
+        "id": 3,
+        "value": "Third item",
+        "order": 1,
+        "noteId": 2,
+        "completed": false,
+        "deleted": false
+      },
+      {
+        "id": 4,
+        "value": "Last item",
+        "order": 2,
+        "noteId": 2,
+        "completed": false,
+        "deleted": false
+      }
+    ],
+    "draftItem": ""
+  }
+]
